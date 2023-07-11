@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -a
+for file in *; do echo $file  
+done
